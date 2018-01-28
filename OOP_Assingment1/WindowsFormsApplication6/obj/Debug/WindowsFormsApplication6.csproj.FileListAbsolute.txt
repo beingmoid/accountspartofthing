@@ -1,0 +1,18 @@
+c:\users\badar\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+c:\users\badar\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+c:\users\badar\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+c:\users\badar\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+c:\users\badar\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+c:\users\badar\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+c:\users\badar\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+c:\users\badar\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+c:\users\badar\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+X:\2nd Semister\OOP\OOP_Assingment1\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+X:\2nd Semister\OOP\OOP_Assingment1\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+X:\2nd Semister\OOP\OOP_Assingment1\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+X:\2nd Semister\OOP\OOP_Assingment1\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+X:\2nd Semister\OOP\OOP_Assingment1\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+X:\2nd Semister\OOP\OOP_Assingment1\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+X:\2nd Semister\OOP\OOP_Assingment1\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+X:\2nd Semister\OOP\OOP_Assingment1\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+X:\2nd Semister\OOP\OOP_Assingment1\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
